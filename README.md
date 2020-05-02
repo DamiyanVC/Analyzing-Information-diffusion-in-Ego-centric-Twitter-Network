@@ -24,3 +24,8 @@ For this project the ego network is generated for the actress *Rakulpreet* from 
 
 3. Community Detection
 * [Louvian Algorithm](https://towardsdatascience.com/louvain-algorithm-93fde589f58c)
+
+## License
+This project is MIT licensed.
+
+Copyright (C) 2020 Ankit Kumar
