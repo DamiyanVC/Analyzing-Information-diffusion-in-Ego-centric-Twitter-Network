@@ -26,7 +26,7 @@ For this project the ego network is generated for the actress *Rakulpreet* from 
 * [Louvian Algorithm](https://towardsdatascience.com/louvain-algorithm-93fde589f58c)
 
 ## Gallery
-![](results/SIS/SISwithbet_cent.png "SIS with bet cent")![](results/SIR/SIRwithbet_cent.png "SIR with bet cent")![](results/IC/ICwitheigen_cent.png "IC with eigen cent")![](results/community/community.jpg "detected communities")
+![](results/SIS/SISwithbet_cent.png "SIS with bet cent")![](results/SIR/SIRwithbet_cent.png "SIR with bet cent")![](results/IC/ICwithbet_cent.png "IC with bet cent")![](results/community/community.jpg "detected communities")
 ## License
 This project is MIT licensed.
 
